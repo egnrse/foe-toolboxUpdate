@@ -3,3 +3,4 @@
 
 a combination of:
 https://github.com/sdn-br/foe-toolbox
+https://github.com/mainIine/foe-helfer-extension
